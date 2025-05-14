@@ -59,4 +59,4 @@ Total: ~7.5 hours
 
 ## Deployment
 
-The site is deployed on [Vercel/Netlify/GitHub Pages] at [URL].
+The site is deployed on Vercel at soft-shell.vercel.app.
